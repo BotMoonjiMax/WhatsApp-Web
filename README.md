@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@𝚖𝟺𝚝𝚑𝚡𝚢𝚣_">      
+<img src="https://dl.dropboxusercontent.com/scl/fi/di2u9wor816y6dznda6lm/1745071198775.jpeg?rlkey=ej6cw0m3oxdyyx8bs34yl2k9i&dl=0">      
 
 <h1 align="center">
 <p>
-<img src= "https://blackstorage.store/midia/1735498459517.jpg" alt="BLACK MD" width="720">
+<img src= "https://dl.dropboxusercontent.com/scl/fi/di2u9wor816y6dznda6lm/1745071198775.jpeg?rlkey=ej6cw0m3oxdyyx8bs34yl2k9i&dl=0" alt="BLACK MD" width="720">
 </p>
 
 <p align="center">
