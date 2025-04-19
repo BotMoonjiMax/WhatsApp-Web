@@ -1,8 +1,8 @@
-<img src="https://dl.dropboxusercontent.com/scl/fi/di2u9wor816y6dznda6lm/1745071198775.jpeg?rlkey=ej6cw0m3oxdyyx8bs34yl2k9i&dl=0">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=🜛+𝐍𝐄𝐖+𝐁𝐋𝐊+𝐕𝟒+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;֎+𝐁𝐋𝐀𝐂𝐊+𝐒𝐘𝐒𝐓𝐄𝐌+֎">      
 
 <h1 align="center">
 <p>
-<img src= "https://dl.dropboxusercontent.com/scl/fi/di2u9wor816y6dznda6lm/1745071198775.jpeg?rlkey=ej6cw0m3oxdyyx8bs34yl2k9i&dl=0" alt="BLACK MD" width="720">
+<img src= "https://pomf2.lain.la/f/csdvdzvo.jpg" alt="BLACK MD" width="720">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@m4thxyz_-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-֎+𝐁𝐋𝐀𝐂𝐊+𝐒𝐘𝐒𝐓𝐄𝐌+֎_-orange.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-4.2.6-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
